@@ -1,7 +1,6 @@
 package me.rosariagx.ethernetCore.Listeners;
 
 import me.rosariagx.ethernetCore.Main;
-import net.kyori.adventure.Adventure;
 import net.kyori.adventure.text.Component;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
