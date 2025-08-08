@@ -1,0 +1,4 @@
+name: EthernetCore
+version: '1.0'
+main: me.rosariagx.ethernetCore.Main
+api-version: '1.21'
